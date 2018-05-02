@@ -1,0 +1,15 @@
+{
+  "subdomain": "guides",
+  "cname": "",
+  "defaultVersion": "master",
+  "versions": {
+    "master": "docs/master"
+  },
+  "theme": "default",
+  "themeSettings": {
+    "logoUrl": "https://assets.dimerapp.com/site/images/logo-beta.svg?v=1",
+    "navbar": {
+      "Back to website": "https://dimerapp.com"
+    }
+  }
+}
