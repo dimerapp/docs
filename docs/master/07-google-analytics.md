@@ -17,3 +17,5 @@ Update the config file `(dimer.json)` by adding your tracking id under the theme
 ```
 
 Google analytics tracking id is available just above the embed code and usually starts with `UA-`. Check the following screenshot for reference.
+
+![](http://res.cloudinary.com/adonisjs/image/upload/q_100/v1525196043/ga_q5538f.png)
